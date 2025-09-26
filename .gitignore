@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Project-specific
+token.json
+client_secrets.json
+headsup.pyproj
+headsup.slnx
+chattyb.slnx
+*.config
+*.db
+*.db-shm
+*.db-wal
